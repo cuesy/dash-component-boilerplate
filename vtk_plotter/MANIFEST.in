@@ -1,0 +1,11 @@
+include vtk_plotter/vtk_plotter.min.js
+include vtk_plotter/vtk_plotter.min.js.map
+include vtk_plotter/async-*.js
+include vtk_plotter/async-*.js.map
+include vtk_plotter/*-shared.js
+include vtk_plotter/*-shared.js.map
+include vtk_plotter/metadata.json
+include vtk_plotter/package-info.json
+include README.md
+include LICENSE
+include package.json
